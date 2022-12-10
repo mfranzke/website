@@ -1,3 +1,7 @@
+| :exclamation:  Code transfer            |
+|-----------------------------------------|
+Please be aware that this repositories contents to provide the [documentation part of the website](https://patternlab.io/docs/overview-of-pattern-lab's-ecosystem/) have been moved to the monorepo: https://github.com/pattern-lab/patternlab-node/tree/dev/packages/docs
+
 Pattern Lab Website
 ======================
 - View Site: https://patternlab.io/
